@@ -1,0 +1,24 @@
+{
+  "name": "readable-uid",
+  "version": "1.0.0",
+  "description": "Human-Readable Unique ID Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antons0l/readable-uid.git"
+  },
+  "keywords": [
+    "Human-Readable",
+    "Unique",
+    "ID",
+    "Generator"
+  ],
+  "author": "antons0l",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
