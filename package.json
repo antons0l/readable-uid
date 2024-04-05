@@ -1,6 +1,6 @@
 {
   "name": "readable-uid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Human-Readable Unique ID Generator",
   "main": "index.js",
   "scripts": {
